@@ -1,7 +1,7 @@
 # prometheus-es-adapter
 
 *Please note:* This project is no longer under active development.
-
+## Link to inroduce backgroud of the pro2es_adapter https://juejin.cn/post/7129500132814356494
 ## Overview
 
 A read and write adapter for prometheus persistent storage.
